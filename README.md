@@ -4,7 +4,7 @@
 
 - 💬  me about **Typescript, JavaScript, HTML, CSS, Node.JS**
 
-<br><br>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
  <div>
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermecpx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-<br><br>
+
  
  ## 🛠 &nbsp;Tech Stack
 
@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
  
-<br><br>
+
  
  ## Social Links
  <div>
