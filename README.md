@@ -1,6 +1,6 @@
  <h1 align="left">Olá! Eu sou o Guilhermecpx <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
-
-- 🔥  Desenvolvedor Front-end Júnior!
+- Acadêmico de Engenharia de Produção.
+- 🔥  Desenvolvedor Full Stack!
 
 - 💬  me about **Typescript, JavaScript, HTML, CSS, Node.JS**
 
